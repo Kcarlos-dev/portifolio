@@ -13,7 +13,7 @@ body{
     
     z-index: -1;
     filter: blur(2px);
-    background-image: url("/img/code.png");
+    background-image: url("/img/code.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
